@@ -6,6 +6,7 @@
   "author": "Greensky <david.hesliere@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@types/mysql": "^2.15.21",
     "amethystjs": "^1.2.3",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
