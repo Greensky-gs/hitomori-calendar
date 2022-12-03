@@ -12,6 +12,7 @@ const client = new AmethystClient({
     token: process.env.token,
     commandsFolder: './dist/commands',
     preconditionsFolder: './dist/preconditions',
+    eventsFolder: './dist/events',
     debug: true,
     prefix: '!',
     botNameWorksAsPrefix: false,

@@ -1,7 +1,7 @@
 import { AmethystCommand } from "amethystjs";
 import { EmbedBuilder } from "discord.js";
 import isStaff from "../preconditions/isStaff";
-import { stats } from "../typings/stats";
+import { stats } from "../typings/database";
 import { query } from "../utils/query";
 
 export default new AmethystCommand({
